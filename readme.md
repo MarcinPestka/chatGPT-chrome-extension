@@ -13,7 +13,7 @@ Do you know how copying text from chat gpt has that grey background when you pas
 
 ## Try it out 
 I published the extension so you can easily 
-[get it here.](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+[get it here.](https://github.com/MarcinPestka/chatGPT-chrome-extension)
 
 
 ## Roadmap
