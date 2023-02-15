@@ -8,7 +8,7 @@ Do you know how copying text from chat gpt has that grey background when you pas
 
 
 ## Screenshots
-<img width="801" alt="Zrzut ekranu 2023-02-14 o 10 39 10" src="https://user-images.githubusercontent.com/79585523/218697194-1472ba4c-2023-44f2-bbae-5cd53743e11d.png">
+![scrGpt](https://user-images.githubusercontent.com/79585523/219018941-c35c9258-77d2-4126-b589-5fffa4ffe3ab.png)
 
 
 ## Try it out 
